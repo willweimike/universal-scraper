@@ -1,0 +1,6 @@
+{
+  "name": "universal-scraper",
+  "version": "0.1.0",
+  "description": "Agent-native web access: read static and JavaScript pages, act on them with stable element handles, and extract structured data, so agents never need curl.",
+  "keywords": ["web", "scraping", "browser", "mcp"]
+}

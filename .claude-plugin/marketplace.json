@@ -1,0 +1,14 @@
+{
+  "name": "universal-scraper",
+  "owner": { "name": "Universal Scraper" },
+  "metadata": { "description": "Agent-native web access for Claude Code." },
+  "plugins": [
+    {
+      "name": "universal-scraper",
+      "source": "./plugin",
+      "description": "Read static and JavaScript pages, act on them with stable element handles, and extract structured data, so agents never need curl.",
+      "version": "0.1.0",
+      "keywords": ["web", "scraping", "browser", "mcp"]
+    }
+  ]
+}

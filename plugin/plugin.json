@@ -1,0 +1,14 @@
+{
+  "name": "universal-scraper",
+  "displayName": "Universal Scraper",
+  "version": "0.1.0",
+  "description": "Agent-native web access: read, act, and extract structured data from web pages, APIs, and forms through a single daemon.",
+  "homepage": "https://github.com/willweimike/universal-scraper",
+  "repository": "https://github.com/willweimike/universal-scraper",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Read https://news.ycombinator.com and summarize the top stories",
+    "Open https://example.com with interactive mode and inspect elements",
+    "Extract structured data from https://example.com"
+  ]
+}
